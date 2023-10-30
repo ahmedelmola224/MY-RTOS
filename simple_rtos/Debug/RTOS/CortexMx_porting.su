@@ -1,0 +1,10 @@
+core_cm3.h:1638:22:__NVIC_SetPriority	16	static
+core_cm3.h:1837:26:SysTick_Config	16	static
+CortexMx_porting.c:7:6:HardFault_Handler	4	static
+CortexMx_porting.c:11:6:MemManage_Handler	4	static
+CortexMx_porting.c:15:6:BusFault_Handler	4	static
+CortexMx_porting.c:19:6:UsageFault_Handler	4	static
+CortexMx_porting.c:25:27:SVC_Handler	0	static,ignoring_inline_asm
+CortexMx_porting.c:39:6:CORTEXMXPORTING_voidIssuePendSv	4	static
+CortexMx_porting.c:44:6:CORTEXMXPORTING_voidStartSystick	16	static
+CortexMx_porting.c:49:6:CORTEXMXPORTING_voidInit	8	static
